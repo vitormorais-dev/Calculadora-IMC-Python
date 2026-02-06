@@ -15,6 +15,13 @@ Calculadora de Índice de Massa Corporal (IMC) desenvolvida em Python utilizando
 - Python 3
 - Tkinter
 
+---
+
+## 📦Executável 
+
+Você pode baixar o executável do programa na aba **releases**
+
+
 ## ▶️ Como executar
 1. Tenha o Python 3 instalado
 2. Clone o repositório
@@ -22,10 +29,3 @@ Calculadora de Índice de Massa Corporal (IMC) desenvolvida em Python utilizando
 
 ```bash
 python calculadora-imc.py
-
-
-
-
-
-
- 
