@@ -11,9 +11,10 @@ Calculadora de Índice de massa corporal (IMC) desenvolvida com Python usando a 
 
 - - - -
 
-# 🛠️Ferramentas utilizadas:
+#🛠️Ferramentas utilizadas:
 
 -Python 3
+
 -Tkinter
 
 
