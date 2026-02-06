@@ -1,2 +1,7 @@
 # Calculadora-IMC-Python
-Calculadora de IMC feita com Python
+
+Calculadora de Índice de massa corporal (IMC) desenvolvida com Python usando a biblioteca Tkinter
+
+ - - -
+
+ 
