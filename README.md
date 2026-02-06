@@ -21,7 +21,7 @@ Calculadora de Índice de Massa Corporal (IMC) desenvolvida em Python utilizando
 3. Execute o arquivo:
 
 ```bash
-python calculadora_imc.py
+python calculadora-imc.py
 
 
 
